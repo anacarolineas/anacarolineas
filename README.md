@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Angular and .NET Core.
-- 🌱 I’m currently learning Typescript and C#.
-
 <div>
   <a href="https://github.com/anacarolineas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anacarolineas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
